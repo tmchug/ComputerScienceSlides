@@ -6,6 +6,7 @@ click top-right image icons to hide the code]: #
 
 ---
 
+https://replit.com/join/ewiuhekewy-tmchug1
 Information, tips, tricks...
 
 This document was written by me, it's here for explaining why the 
