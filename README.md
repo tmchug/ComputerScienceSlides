@@ -16,7 +16,7 @@ click top-right image icons to hide the code]: #
   </p>
 </div>
 
-- ### 🧾- Notices
+### 🧾- Notices
 
 ---
 
