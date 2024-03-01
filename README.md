@@ -89,5 +89,5 @@ A flowchart copy of main.py, made in figma.
 
 There will be a better version of the photo in the drive.
 
-![App Screenshot](icons/Untitled.png)
+![App Screenshot](award.png)
 
