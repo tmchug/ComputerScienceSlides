@@ -4,14 +4,14 @@ click top-right image icons to hide the code]: #
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/tmchug/ComputerScienceSlides">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Projects</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Below you can find all the slides / projects we completed as a team!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
