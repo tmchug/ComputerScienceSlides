@@ -6,7 +6,7 @@ click top-right image icons to hide the code]: #
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" src="icons/folder-down (1).png">
     <source media="(prefers-color-scheme: light)" src="icons/folder-down.png">
-    <img src="doodle_128.png" width="100" height="80">
+    <img srcset="[doodle_128.png](https://raw.githubusercontent.com/tmchug/ComputerScienceSlides/main/icons/doodle_128.png)" width="100" height="80">
   </picture>
   
   <h3 align="center">Projects</h3>
