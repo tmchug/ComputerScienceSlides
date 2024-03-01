@@ -6,7 +6,7 @@ click top-right image icons to hide the code]: #
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" src="icons/folder-down (1).png">
     <source media="(prefers-color-scheme: light)" src="icons/folder-down.png">
-    <img src="StillWorkingOnIt" width="80" height="80">
+    <img src="doodle.png" width="80" height="80">
   </picture>
   
   <h3 align="center">Projects</h3>
