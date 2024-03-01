@@ -16,9 +16,9 @@ click top-right image icons to hide the code]: #
   </p>
 </div>
 
----
+- ### 🧾- Notices
 
-# 🧾- Notices
+---
 
 https://replit.com/join/ewiuhekewy-tmchug1
 Information, tips, tricks...
