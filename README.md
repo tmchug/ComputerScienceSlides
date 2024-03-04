@@ -26,7 +26,7 @@ Made with tkinter:
 https://replit.com/join/ewiuhekewy-tmchug1
 
 ` CPU, Memory`
-Made with Figma: https://www.figma.com/team_invite/redeem/SAvsGOkTH4HYraOwnZouE5
+Made with Figma: 
 
 ### 📁 - Sources
 
